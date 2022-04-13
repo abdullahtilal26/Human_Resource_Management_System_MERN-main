@@ -1,5 +1,5 @@
 # Human Resource Management System - MERN
-This is the fifth semester project - HRMS implemented with MySql DataBase, Express JS, React JS, Node JS and Material UI.
+This is the fifth semester project - HRMS implemented with MySql DataBase, Express JS, React JS, Node JS (MERN) and Material UI.
 
 # Introduction
 The Human Resource Management System (HRMS) aims to facilitate the management operation in an organization. 
